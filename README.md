@@ -2,13 +2,14 @@
 
 
 ## Description
-This repository contains the source code and resources for "MyMusicApp," an Android music player application developed based on a tutorial in Android Studio. The app features music track selection and playback controls including play, pause, next, and previous functionalities.
+Developed a music player app, "MyMusicApp," using Android Studio following a tutorial. The app features music selection and playback controls, including play, pause, next, and previous functionalities.
+
 
 ## Screenshots/GIFs
-![MyMusicApp Demo](path_to_your_music_app_image.png)
-![MyMusicApp Demo](path_to_your_music_app_image.png)
-![MyMusicApp Demo](path_to_your_music_app_image.png)
-![MyMusicApp Demo](path_to_your_music_app_image.png)
+![MyMusicApp Demo](musicapp1.png)
+![MyMusicApp Demo](musicapp2.png)
+![MyMusicApp Demo](musicapp3.png)
+
 
 ## Features
 - Music player functionality
